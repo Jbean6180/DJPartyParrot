@@ -1,4 +1,4 @@
 # DJPartyParrot
 Discord Music Bot
 
-#FFMPEG and Tokens will be needed to use
+#FFMPEG repo and Tokens will be needed to use
