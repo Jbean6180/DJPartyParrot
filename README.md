@@ -1,5 +1,7 @@
 # DJPartyParrot
 Discord Music Bot
-![image](https://user-images.githubusercontent.com/26853829/135733795-25388242-f6a6-462a-a17d-6c680e3b7a08.png)
+
+![image](https://user-images.githubusercontent.com/26853829/135733844-3c441487-8ee1-419f-b93b-45f3d5669c39.png)
+
 
 #FFMPEG repo and Tokens will be needed to use
