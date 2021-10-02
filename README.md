@@ -1,0 +1,2 @@
+# DJPartyParrot
+Discord Music Bot
